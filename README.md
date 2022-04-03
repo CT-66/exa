@@ -2,6 +2,8 @@
 
 # exa
 
+[ogham's](https://github.com/ogham) exa with a few changed icons
+
 [exa](https://the.exa.website/) is a modern replacement for _ls_.
 
 **README Sections:** [Options](#options) — [Installation](#installation) — [Development](#development)
