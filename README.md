@@ -2,6 +2,8 @@
 
 # exa
 
+---
+
 [ogham's](https://github.com/ogham) exa with a few changed icons
 
 ---
